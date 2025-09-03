@@ -1,3 +1,3 @@
-module github.com/upamune/claude-code-go
+module github.com/kannae97/claude-code-go
 
 go 1.21
